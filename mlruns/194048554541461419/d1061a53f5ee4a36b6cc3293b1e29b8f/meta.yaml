@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sarojrai/Desktop/YouTube_MLOps_Series/MLFlow/mlruns/194048554541461419/d1061a53f5ee4a36b6cc3293b1e29b8f/artifacts
+end_time: 1743882393285
+entry_point_name: ''
+experiment_id: '194048554541461419'
+lifecycle_stage: active
+run_id: d1061a53f5ee4a36b6cc3293b1e29b8f
+run_name: nervous-cub-863
+run_uuid: d1061a53f5ee4a36b6cc3293b1e29b8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743882393273
+status: 3
+tags: []
+user_id: sarojrai

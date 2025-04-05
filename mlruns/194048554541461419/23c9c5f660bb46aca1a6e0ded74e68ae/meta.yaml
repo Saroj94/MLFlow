@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sarojrai/Desktop/YouTube_MLOps_Series/MLFlow/mlruns/194048554541461419/23c9c5f660bb46aca1a6e0ded74e68ae/artifacts
+end_time: 1743882393399
+entry_point_name: ''
+experiment_id: '194048554541461419'
+lifecycle_stage: active
+run_id: 23c9c5f660bb46aca1a6e0ded74e68ae
+run_name: aged-grouse-643
+run_uuid: 23c9c5f660bb46aca1a6e0ded74e68ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743882393387
+status: 3
+tags: []
+user_id: sarojrai

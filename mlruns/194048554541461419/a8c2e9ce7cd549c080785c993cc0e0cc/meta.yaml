@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sarojrai/Desktop/YouTube_MLOps_Series/MLFlow/mlruns/194048554541461419/a8c2e9ce7cd549c080785c993cc0e0cc/artifacts
+end_time: 1743882397525
+entry_point_name: ''
+experiment_id: '194048554541461419'
+lifecycle_stage: active
+run_id: a8c2e9ce7cd549c080785c993cc0e0cc
+run_name: persistent-fawn-47
+run_uuid: a8c2e9ce7cd549c080785c993cc0e0cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743882385871
+status: 3
+tags: []
+user_id: sarojrai

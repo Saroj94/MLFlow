@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sarojrai/Desktop/YouTube_MLOps_Series/MLFlow/mlruns/194048554541461419/77a2934220b04808bc5d16d9cac4c00c/artifacts
+end_time: 1743882393360
+entry_point_name: ''
+experiment_id: '194048554541461419'
+lifecycle_stage: active
+run_id: 77a2934220b04808bc5d16d9cac4c00c
+run_name: thoughtful-shrew-14
+run_uuid: 77a2934220b04808bc5d16d9cac4c00c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743882393349
+status: 3
+tags: []
+user_id: sarojrai

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/484712925557008670/d99971842bf64ce6b01b721119c50edb/artifacts
+end_time: 1743877425171
+entry_point_name: ''
+experiment_id: '484712925557008670'
+lifecycle_stage: active
+run_id: d99971842bf64ce6b01b721119c50edb
+run_name: traveling-zebra-73
+run_uuid: d99971842bf64ce6b01b721119c50edb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743877424573
+status: 3
+tags: []
+user_id: sarojrai

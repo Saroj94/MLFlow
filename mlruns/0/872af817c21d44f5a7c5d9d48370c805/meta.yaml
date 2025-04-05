@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/872af817c21d44f5a7c5d9d48370c805/artifacts
+end_time: 1743873775972
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 872af817c21d44f5a7c5d9d48370c805
+run_name: unruly-grouse-572
+run_uuid: 872af817c21d44f5a7c5d9d48370c805
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743873774783
+status: 4
+tags: []
+user_id: sarojrai
